@@ -1,0 +1,15 @@
+{
+  "name": "lp-masayu",
+  "version": "1.0.0",
+  "description": "food website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "npx tailwindcss -i ./css/tailwind.css -o ./css/style.css --watch"
+  },
+  "author": "Bayu Krisna",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
